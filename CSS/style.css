@@ -2,7 +2,7 @@
     margin: 0 5px;
     padding: 0;
     box-sizing: border-box;
-    background: rgba(0, 0, 0, 0.6) url("https://raw.githubusercontent.com/pwlive/fullstackwebdevelopment/main/Assignment_01(HTML%2BCSS)/assets/pexels-maxyne-barcel-10402282%201.png");
+    background: rgba(0, 0, 0, 0.65) url(/assets/pexels-maxyne-barcel-10402282\ 1.png);
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-attachment: fixed;
